@@ -7,7 +7,9 @@
 
 - 🤝 I’m looking for help with **Technical Writing Mentorship**
 
-- 📝 I regularly write articles on [https://ladyprowess.medium.com](https://ladyprowess.medium.com)
+- 📝 I regularly write articles on [Medium](https://ladyprowess.medium.com) & [Hashnode](https://hashnode.com/@ladyprowess)
+
+- 📝 My Resume and Portfolio are available here [Résumé](https://docs.google.com/presentation/d/1lwMAbsPkRhlgkSdhHYYM5km7zNd6bN2kM49rUV8xeCw/edit)
 
 - 💬 Ask me about **Technical Writing related concept**
 
