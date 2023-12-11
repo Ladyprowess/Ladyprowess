@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ngozi Peace Okafor</h1>
 <h3 align="center">A passionate & experienced Technical Writer</h3>
 
-- 🌱 I’m currently learning **front-end frameworks**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 👯 I’m looking to collaborate on **any technical writing related projects**
 
