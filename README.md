@@ -5,17 +5,17 @@
 
 - 👯 I’m looking to collaborate on **any technical and non-technical writing related projects**
 
-- 🤝 I’m looking for help with **Technical Writing Mentorship**
+- 🤝 I’m looking for help with ***Technical and Non-Technical Writing Mentorship**
 
 - 📝 I regularly write articles on [Medium](https://ladyprowess.medium.com) & [Hashnode](https://hashnode.com/@ladyprowess)
 
 - 📝 My Resume and Portfolio are available here [Résumé](https://beacons.ai/ladyprowess)
 
-- 💬 Ask me about **Technical and Non-technical Writing related concept**
+- 💬 Ask me about **Technical and Non-Technical Writing related concept**
 
 - 📫 How to reach me **Okaforpeacee@gmail.com**
 
-- ⚡ Fun fact **Gisting and following tech twitter**
+- ⚡ Fun fact **Gisting and following tech Twitter**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
