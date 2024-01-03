@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ngozi Peace Okafor</h1>
 <h3 align="center">A passionate & experienced Technical Writer</h3>
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **Developer Advocacy**
 
-- 👯 I’m looking to collaborate on **any technical writing related projects**
+- 👯 I’m looking to collaborate on **any technical and non-technical writing related projects**
 
 - 🤝 I’m looking for help with **Technical Writing Mentorship**
 
 - 📝 I regularly write articles on [Medium](https://ladyprowess.medium.com) & [Hashnode](https://hashnode.com/@ladyprowess)
 
-- 📝 My Resume and Portfolio are available here [Résumé](https://docs.google.com/presentation/d/1lwMAbsPkRhlgkSdhHYYM5km7zNd6bN2kM49rUV8xeCw/edit)
+- 📝 My Resume and Portfolio are available here [Résumé](https://beacons.ai/ladyprowess)
 
-- 💬 Ask me about **Technical Writing related concept**
+- 💬 Ask me about **Technical and Non-technical Writing related concept**
 
 - 📫 How to reach me **Okaforpeacee@gmail.com**
 
